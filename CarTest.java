@@ -1,3 +1,4 @@
+//This is to test the that the methods work correctly
 public class CarTest
 {
 	public static void main(String[] args)
