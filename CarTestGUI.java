@@ -1,3 +1,4 @@
+//Creates and test the functionally of a GUI with the program
 import javax.swing.JOptionPane;
 import javax.swing.JFrame;
 
